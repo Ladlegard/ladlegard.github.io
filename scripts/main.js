@@ -18,7 +18,7 @@ function setUserName() {
         setUserName();
     } else {
     localStorage.setItem("name", myName);
-    myHeading.textContent = `Welcome to MILGRAM, ${myName};`
+    myHeading.textContent = `Welcome to MILGRAM, ${myName}`;
     }
 }
 
