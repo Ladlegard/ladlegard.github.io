@@ -1,2 +1,2 @@
 # Ladlegard.github.io
-My first ever webpafe!
+My first ever webpage!
